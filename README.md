@@ -1,2 +1,3 @@
-# phichitheta-zg.github.io
-Phi Chi Theta's Internal Recruitment Website 
+# Phi Chi Theta's Internal Recruitment Website [In Progress]
+
+Look out for more soon!
